@@ -5,6 +5,8 @@ title: Projects
 
 # Projects
 
+[Home](./) • [Projects](./projects) • [Skills](./skills) • [Experience](./experience) • [Contact](./contact)
+
 ### Autonomous Vehicle – Raspberry Pi
 A self-driving vehicle prototype using Raspberry Pi, sensors, motor drivers, and Python-based control logic.
 
