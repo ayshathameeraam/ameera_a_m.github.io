@@ -4,6 +4,7 @@ title: Experience
 ---
 
 # Experience
+[Home](./) • [Projects](./projects) • [Skills](./skills) • [Experience](./experience) • [Contact](./contact)
 
 ### Project Intern – IIT Madras
 Exploring Red Pitaya, FPGA flow, Verilog design, and hardware-software interfacing.
