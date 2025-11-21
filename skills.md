@@ -5,6 +5,9 @@ title: Skills
 
 # Skills
 
+[Home](./) • [Projects](./projects) • [Skills](./skills) • [Experience](./experience) • [Contact](./contact)
+
+
 **Embedded Systems:** Arduino, ESP32, Raspberry Pi  
 **Programming:** Python, C, Embedded C  
 **FPGA:** Basics of Verilog, Vivado 2020.1, Red Pitaya exploration  
